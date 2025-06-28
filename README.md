@@ -27,7 +27,7 @@ Designed to play local audio files stored on the device, with a clean interface 
 
 <div align="center">
   <img src="screenshots/intro.png" width="250"/>
-  <img src="screenshots/playlist.png" width="250"/>
+  <img src="screenshots/playlilist.png" width="250"/>
   <img src="screenshots/now_playing.png" width="250"/>
 </div>
 
